@@ -2,7 +2,7 @@
 
 # ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation
 
-[🌐 **Project Page**](https://codingbabyguy.github.io/ViTaR/) &nbsp;&nbsp;|&nbsp;&nbsp; [📄 **arXiv**](https://arxiv.org/abs/XXXX.XXXXX) &nbsp;&nbsp;|&nbsp;&nbsp; [🎥 **Video**](https://www.youtube.com/watch?v=VIDEO_ID)
+[🌐 **Project Page**](https://icr-lab.github.io/ViTaR/) &nbsp;&nbsp;|&nbsp;&nbsp; [📄 **arXiv**](https://arxiv.org/abs/XXXX.XXXXX) &nbsp;&nbsp;|&nbsp;&nbsp; [🎥 **Video**](https://www.youtube.com/watch?v=VIDEO_ID)
 
 <br />
 
